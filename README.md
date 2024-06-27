@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex Lovelock</h1>
-<h3 align="center">A "Soon-to-be" Graduate in Computing from the University of Surrey</h3>
+<h1 align="center">Hi , I'm Alex Lovelock</h1>
+<h3 align="center">Graduate in Computing from the University of Surrey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlovelock22&label=Profile%20views&color=0e75b6&style=flat" alt="alexlovelock22" /> </p>
 

@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlovelock22&label=Profile%20views&color=0e75b6&style=flat" alt="alexlovelock22" /> </p>
 
-- I’m currently working on [www.checktech.online](www.checktech.online)
+- I’m currently working on [www.checktech.online](https://www.checktech.online)
 
 - All of my projects are available at [https://alexlovelock22.github.io/](https://alexlovelock22.github.io/)
 

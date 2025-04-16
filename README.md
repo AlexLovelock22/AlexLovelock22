@@ -1,4 +1,4 @@
-<h3 align="center">University of Surrey Graduate, doing freelance work whilst working as a software engineer at Consillion EMEA</h3>
+<h3 align="center">University of Surrey Graduate, doing freelance work whilst working as a software engineer at Futura Retail Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexlovelock22&label=Profile%20views&color=0e75b6&style=flat" alt="alexlovelock22" /> </p>
 
